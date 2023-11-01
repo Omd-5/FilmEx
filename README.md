@@ -1,2 +1,2 @@
-# Moviewer
-Listing your movies folder into active web page.
+# Films Explorer
+Listing your movies or Videos folder as active web-app.
